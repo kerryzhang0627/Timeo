@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/kerryzhang0627/Timeo/edit/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![Image of Timeo Screenshot]
-(https://imgur.com/a/HZ2bIma)
+(https://i.imgur.com/CSjQfKb.png)
 
 ### Privacy Policy
 
